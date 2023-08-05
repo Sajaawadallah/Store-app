@@ -1,0 +1,37 @@
+
+.edit-btn{
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #1db954;
+    border: 1px solid #1db954;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+}
+
+
+.delete-btn{
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #ff0000;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    color: white;   
+    font-size: 12px;
+}
+
+.create-btn{
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: yellowgreen;
+    border: 1px solid yellowgreen;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+}
